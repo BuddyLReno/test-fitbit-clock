@@ -1,0 +1,14 @@
+{
+  "name": "test-fitbit-clock",
+  "version": "0.0.1",
+  "description": "a test clock face to learn the architecture",
+  "main": "index.js",
+  "repository": "https://github.com/BuddyLReno/test-fitbit-clock.git",
+  "author": "Buddy Reno <buddy.reno@daveramsey.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@fitbit/sdk": "^3.1.2",
+    "@fitbit/sdk-cli": "^1.7.0"
+  },
+  "dependencies": {}
+}
